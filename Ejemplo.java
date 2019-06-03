@@ -4,6 +4,9 @@ public class Ejemplo{
 
 		System.out.println("Ejemplo 2 ");
 	
+	
+	    System.out.printl("otra linea");
+	
 	}	
 	
 	
